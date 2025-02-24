@@ -2,6 +2,8 @@
 
 How to use a Dashboard embedding code-snippet in Node.js
 
+<img width="1658" alt="image" src="https://github.com/user-attachments/assets/846779fd-1f96-485b-8bb5-97c71bf6decf" />
+
 ## Prerequisites
 
 - Node.js
